@@ -1,2 +1,2 @@
-# homework
+# Domáce úlohy
 Ingrid Remenárová - úlohy
